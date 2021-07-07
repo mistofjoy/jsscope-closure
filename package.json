@@ -1,0 +1,11 @@
+{
+  "name": "jsscope-closure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jhonkar Sufia <windyforest13@gmail.com>",
+  "license": "MIT"
+}
